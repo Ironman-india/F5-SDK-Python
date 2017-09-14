@@ -1,0 +1,10 @@
+This is very basic code created.
+I have below requirements, please any one help
+
+1, When i go to create new VIP, I Should get new window and where i can type the F5 IP, user name, password ,VIP details like IP and name and node all,  VIP need to be created in F5 box 
+2, Terminal, i need to have connection with SSH session with F5 box to verify the changes we made  in line one
+
+
+I plan to use the Requests: HTTP for Humans to sent the script to F5 API interface
+
+please guide on this
