@@ -1,1 +1,0 @@
-# F5-SDK-Python
